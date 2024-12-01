@@ -1,7 +1,7 @@
 # real_post_project
  my react real state project
  Document of Real Estate Listing System
- 
+
 -Overview
 
 The Real Estate Listing System: is a platform designed for buyers, sellers, and real estate agents to connect and facilitate the buying, selling, and renting of properties. It enables users to list properties for sale or rent, search for available properties based on various filters (location, price, type, etc.), and communicate directly with property owners or agents. The system is intended to streamline the real estate process, making it more efficient and user-friendly.
